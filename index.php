@@ -25,3 +25,30 @@ echo NUM1;
 */
 
 // Function in php
+
+/*
+function sum() {
+    $num1 = 53;
+    $num2 = 69;
+
+    return $num1 + $num2; 
+}
+$result = sum();
+echo $result * 30;
+*/
+
+// function sum($num1, $num2) {
+//     return $num1 + $num2;
+// }
+// $result = sum(50, 87);
+// echo $result * 30;
+
+
+// function sum($num1, $num2=87) {
+//     return $num1 + $num2;
+// }
+// $result = sum(50);
+// echo $result * 30;
+
+
+// Meeting in _General_-20210806_200753-Meeting Recording
